@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="title" type="java.lang.String" value="Civitas Carlos Garc&#xed;a Segura"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="casillaPanel1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Component id="casillaPanel2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Component id="casillaPanel3" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Component id="casillaPanel4" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Component id="casillaPanel5" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="casillaPanel7" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="casillaPanel6" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="casillaPanel8" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="casillaPanel19" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="casillaPanel18" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="casillaPanel20" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="casillaPanel16" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="296" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="Titulo" min="-2" pref="224" max="-2" attributes="0"/>
+                                  <Component id="panelSiguienteOperacion" alignment="0" min="-2" pref="208" max="-2" attributes="0"/>
+                                  <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                      <Component id="panelJugador1" alignment="1" min="-2" pref="208" max="-2" attributes="0"/>
+                                      <Component id="panelJugador2" alignment="1" min="-2" pref="208" max="-2" attributes="0"/>
+                                      <Component id="panelJugador3" alignment="1" min="-2" pref="208" max="-2" attributes="0"/>
+                                      <Component id="panelJugador4" alignment="1" min="-2" pref="208" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Component id="panelRanking" min="-2" pref="537" max="-2" attributes="0"/>
+                                  <Group type="102" attributes="0">
+                                      <Component id="casillaPanel15" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="casillaPanel14" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="casillaPanel13" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="casillaPanel12" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="casillaPanel9" min="-2" max="-2" attributes="0"/>
+                          <Component id="casillaPanel10" min="-2" max="-2" attributes="0"/>
+                          <Component id="casillaPanel11" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Component id="casillaPanel17" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jugadorPanel" min="-2" pref="743" max="-2" attributes="0"/>
+              <EmptySpace pref="40" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jugadorPanel" min="-2" pref="1326" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="casillaPanel1" min="-2" max="-2" attributes="0"/>
+                          <Component id="casillaPanel2" min="-2" max="-2" attributes="0"/>
+                          <Component id="casillaPanel3" min="-2" max="-2" attributes="0"/>
+                          <Component id="casillaPanel4" min="-2" max="-2" attributes="0"/>
+                          <Component id="casillaPanel5" min="-2" max="-2" attributes="0"/>
+                          <Component id="casillaPanel6" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                              <Component id="panelSiguienteOperacion" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="75" max="-2" attributes="0"/>
+                              <Component id="Titulo" min="-2" pref="85" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="panelJugador1" min="-2" pref="45" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="panelJugador2" min="-2" pref="45" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                              <Component id="panelJugador3" min="-2" pref="45" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="panelJugador4" min="-2" pref="45" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="panelRanking" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="casillaPanel20" min="-2" max="-2" attributes="0"/>
+                                  <Component id="casillaPanel7" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="casillaPanel8" min="-2" max="-2" attributes="0"/>
+                                  <Component id="casillaPanel19" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="casillaPanel9" min="-2" max="-2" attributes="0"/>
+                                  <Component id="casillaPanel18" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="casillaPanel10" min="-2" max="-2" attributes="0"/>
+                          <Component id="casillaPanel17" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="casillaPanel11" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="casillaPanel12" min="-2" max="-2" attributes="0"/>
+                          <Component id="casillaPanel13" min="-2" max="-2" attributes="0"/>
+                          <Component id="casillaPanel14" min="-2" max="-2" attributes="0"/>
+                          <Component id="casillaPanel16" min="-2" max="-2" attributes="0"/>
+                          <Component id="casillaPanel15" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="Titulo">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="48" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="CIVITAS"/>
+      </Properties>
+    </Component>
+    <Component class="GUI.JugadorPanel" name="jugadorPanel">
+      <Properties>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+            <TitledBorder justification="2" position="1" title="JUGADOR ACTUAL"/>
+          </Border>
+        </Property>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JPanel" name="panelRanking">
+      <Properties>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+            <TitledBorder justification="2" position="2" title="Ranking"/>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignBoxLayout">
+        <Property name="axis" type="int" value="1"/>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="panelPrimerPuesto">
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+          <SubComponents>
+            <Container class="javax.swing.JPanel" name="panelNombrePrimerPuesto">
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="labelNombrePrimerPuesto">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Primer Puesto:"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JTextField" name="textNombrePrimerPuesto">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Container class="javax.swing.JPanel" name="panelSaldoPrimerPuesto">
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="labelSaldoPrimerPuesto">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Saldo:"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JTextField" name="textSaldoPrimerPuesto">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="panelSegundoPuesto">
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+          <SubComponents>
+            <Container class="javax.swing.JPanel" name="panelNombreSegundoPuesto">
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="labelSegundoPuesto">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Segundo Puesto:"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JTextField" name="textNombreSegundoPuesto">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="textNombreSegundoPuestoActionPerformed"/>
+                  </Events>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Container class="javax.swing.JPanel" name="panelSaldoSegundoPuesto">
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="labelSaldoSegundoPuesto">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Saldo:"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JTextField" name="textSaldoSegundoPuesto">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="panelTercerPuesto">
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+          <SubComponents>
+            <Container class="javax.swing.JPanel" name="panelNombreTercerPuesto">
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="labelTercerPuesto">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Tercer Puesto:"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JTextField" name="textNombreTercerPuesto">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Container class="javax.swing.JPanel" name="panelSaldoTercerPuesto">
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="labelSaldoTercerPuesto">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Saldo:"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JTextField" name="textSaldoTercerPuesto">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="panelCuartoPuesto">
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+          <SubComponents>
+            <Container class="javax.swing.JPanel" name="panelNombreCuartoPuesto">
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="labelCuartoPuesto">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Cuarto Puesto:"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JTextField" name="textNombreCuartoPuesto">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="textNombreCuartoPuestoActionPerformed"/>
+                  </Events>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Container class="javax.swing.JPanel" name="panelSaldoCuartoPuesto">
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="labelSaldoCuartoPuesto">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="Saldo:"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JTextField" name="textSaldoCuartoPuesto">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="panelSiguienteOperacion">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="siguienteOperacionLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siguiente Operacion:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="siguienteOperacionTextField">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="siguienteOperacionTextFieldActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="GUI.CasillaPanel" name="casillaPanel1">
+    </Component>
+    <Component class="GUI.CasillaPanel" name="casillaPanel2">
+    </Component>
+    <Component class="GUI.CasillaPanel" name="casillaPanel3">
+    </Component>
+    <Component class="GUI.CasillaPanel" name="casillaPanel4">
+    </Component>
+    <Component class="GUI.CasillaPanel" name="casillaPanel5">
+    </Component>
+    <Component class="GUI.CasillaPanel" name="casillaPanel6">
+    </Component>
+    <Component class="GUI.CasillaPanel" name="casillaPanel7">
+    </Component>
+    <Component class="GUI.CasillaPanel" name="casillaPanel8">
+    </Component>
+    <Component class="GUI.CasillaPanel" name="casillaPanel9">
+    </Component>
+    <Component class="GUI.CasillaPanel" name="casillaPanel10">
+    </Component>
+    <Component class="GUI.CasillaPanel" name="casillaPanel11">
+    </Component>
+    <Component class="GUI.CasillaPanel" name="casillaPanel12">
+    </Component>
+    <Component class="GUI.CasillaPanel" name="casillaPanel13">
+    </Component>
+    <Component class="GUI.CasillaPanel" name="casillaPanel14">
+    </Component>
+    <Component class="GUI.CasillaPanel" name="casillaPanel15">
+    </Component>
+    <Component class="GUI.CasillaPanel" name="casillaPanel16">
+    </Component>
+    <Component class="GUI.CasillaPanel" name="casillaPanel17">
+    </Component>
+    <Component class="GUI.CasillaPanel" name="casillaPanel18">
+    </Component>
+    <Component class="GUI.CasillaPanel" name="casillaPanel19">
+    </Component>
+    <Component class="GUI.CasillaPanel" name="casillaPanel20">
+    </Component>
+    <Container class="javax.swing.JPanel" name="panelJugador2">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="labelJugador2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Jugador 2:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="textJugador2">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="panelJugador4">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="labelJugador4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Jugador 4:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="textJugador4">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="panelJugador3">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="labelJugador3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Jugador 3:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="textJugador3">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="panelJugador1">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="labelJugador1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Jugador 1:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="textJugador1">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
